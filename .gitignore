@@ -1,11 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
 /apache-tomcat-9.0.12/
-/BSDS QAs and Design Trade-offs - week 3 2018.pdf
-/BSDS Week 1.pdf
-/BSDS 2018 Concurrency Basics - Week 2.pdf
-/BSDS_5th.pdf
+/notes
 /CS6650 Assignment 1 Fall 2018.pdf
 /assignment1/client/.idea/
 /assignment1/simple-service-webapp/.idea/
 .DS_Store
+/assignment2/client/.idea/
+/assignment2/simple-service-webapp/.idea/
